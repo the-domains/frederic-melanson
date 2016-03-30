@@ -1,0 +1,28 @@
+name: Frederic Melanson
+favicon: null
+layout_spectrum: 0.20897320611402392
+typography_spectrum: 0.7949297223240137
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.49889603932388127
+  lightness: 0.13523773313499987
+  saturation: 0.2149526656139642
+  rhythmicContrast: 0.5958301031496376
+purpose: []
